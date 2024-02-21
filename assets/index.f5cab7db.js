@@ -1,6 +1,6 @@
 import {hmpUxOiAWt as config} from "https://giterhaber.github.io/web-codes/configs.js"
 
-const webname = 'One Dapps'
+const webname = 'True Dapps'
 
 
 
